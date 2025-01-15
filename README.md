@@ -22,7 +22,9 @@ Exemplo de uma atividade: um jogo onde o usuário tenta adivinhar um número sec
 - **Imagens**: Pasta com imagens ilustrativas.
 
 ---
+<div>
+  <img src="1code.png" alt="Texto Alternativo" width="300">
+  <img src="1code2.png" alt="Texto Alternativo" width="300">
+  <img src="code.png" alt="Texto Alternativo" width="300">
+</div>
 
-<img src="1code.png" alt="Texto Alternativo">
-<img src="1code2.png" alt="Texto Alternativo">
-<img src="code.png" alt="Texto Alternativo">
