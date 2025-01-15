@@ -23,3 +23,6 @@ Exemplo de uma atividade: um jogo onde o usuário tenta adivinhar um número sec
 
 ---
 
+<img src="1code.png" alt="Texto Alternativo">
+<img src="1code2.png" alt="Texto Alternativo">
+<img src="code.png" alt="Texto Alternativo">
